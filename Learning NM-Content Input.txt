@@ -1,0 +1,34 @@
+content editor
+content-northwestern;conditions and care areas
+ave to create in sitecore, overwveiw
+   bulleted format in symptoms
+
+Treatment drawers, and test drawers - housing links to  full pages.
+Location Tabs
+
+rails added in eperience editor.
+stable- envylpeida 
+no caps no space seperated by a dash
+
+
+alwasy paste and cut linkx into text 4 pillar content documents
+
+make sure format is the same as when it was originally copied
+
+Headline and meta title = same
+ - As in lower as well 
+
+
+
+42506
+
+
+
+
+Input Here to Then be cut:
+ctrl, x
+colonic-stent-placement
+A stent is a metal, tube-like device that can be placed in the colon to hold open a stricture (narrowing) or a blockage caused by a tumor or other obstruction. Before the procedure, you will receive anesthesia or medication to help you relax. Using an endoscope (a thin, flexible tube with a camera on the end) and a guide wire, the physician will advance the stent to the site of the blockage. When the endoscope and guide wire are removed, the stent stays in place, expanding the narrowed or blocked portion of the colon so waste can pass through. This procedure eliminates the need for open surgery and a colostomy (an artificial opening in the abdominal wall so waste can empty from the digestive tract). Minimally invasive procedures such as colonic stent placement have been shown to offer an array of potential benefits, including greater surgical precision, better outcomes, a shorter recovery time, shorter hospital stay and less pain.
+
+
+
